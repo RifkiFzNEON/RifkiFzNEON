@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RifkiFzNEON
 - 👀 I’m interested in Data Scientist
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on My Squad
+- 💞️ I’m looking to collaborate with Everyone
 - 📫 How to reach me leminerale6666@gmail.com
 
 <!---
